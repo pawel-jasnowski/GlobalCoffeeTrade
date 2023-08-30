@@ -54,7 +54,7 @@ Project is: *completed*
 In the future, the project can be improved by:
 
 - extending the dataset - some more historical data
-- extending the dataset for pricing area
+- extending the dataset for coffee pricing
 
 ## Contact
 
