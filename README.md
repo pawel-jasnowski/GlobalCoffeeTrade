@@ -43,7 +43,7 @@ The dataset is available in a csv file [link](https://www.ico.org/new_historical
 - [Tableau](https://www.tableau.com/)
 
 ## Tableau
- - Link to the public tableau viz - (https://public.tableau.com/app/profile/pawel.jasnowski/viz/GlobalCoffeeTradefrom1990/Dashboard1)
+ - Link to the public tableau viz - (https://public.tableau.com/app/profile/pawel.jasnowski/viz/GlobalCoffeeTradefrom1990/Story1)
 
 ## Project status
 
